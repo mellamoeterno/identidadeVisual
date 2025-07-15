@@ -46,11 +46,14 @@ export default function Home() {
           <img src="/images/img7.png" className="w-full h-full object-cover" />
           <img src="/images/img8.png" className="w-full h-full object-cover" />
           <img src="/images/img9.png" className="w-full h-full object-cover" />
-           <div className="w-full h-20 flex items-center justify-center bg-[#262935]">
+          <img src="/images/img10.png" className="w-full h-full object-cover" />
+          <img src="/images/img11.png" className="w-full h-full object-cover" />
+          <img src="/images/img12.png" className="w-full h-full object-cover" />
+           <div className="w-full h-20 flex items-center justify-center bg-[#0B0533]">
           <button
-            className="bg-gradient-to-r h-17 from-indigo-400 via-fuchsia-300 to-[#EC8C78] text-gray-800 font-bold text-lg px-6 py-3 squared-lg shadow-md hover:brightness-110 transition"
+            className="bg-gradient-to-r h-17 from-[#8114fd] via-[#a556ff] to-[#8215ff44] text-white font-bold text-lg px-6 py-3 rounded-lg shadow-md hover:brightness-110 transition"
             onClick={() => {
-              window.location.href = 'https://pay.kiwify.com.br/oIxIhMX';
+              window.location.href = 'https://chat.whatsapp.com/GMDNos6K3KI3aF3EoGmgEk';
             }}
           >
             Agende sua Consultoria
